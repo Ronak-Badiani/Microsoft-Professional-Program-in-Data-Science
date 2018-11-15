@@ -1,0 +1,7 @@
+Exercise 1,Challenge 1
+1-> 5-12-2017,Tuesday,22
+Exercise 2, Challenge
+1-> yr=14,704.00 , jan=727.00
+Exercise 3, Challenge
+Temp high, Rainfall low , Sales high
+Temp low, Rainfall high, Sales low
