@@ -1,0 +1,9 @@
+Exercise 1, Challenge
+1. Total sum of revenue (Aug) = 470.5
+    Hottest temp on sat of july = 102.9
+    Lowest num of flyers (nov) = 26,monday
+
+Exercise 2, Challenge
+1. Highest flyer - Wed (2152)
+    Lowest Flyer - Sat(1997)
+2. Temp low, Rainfall low
