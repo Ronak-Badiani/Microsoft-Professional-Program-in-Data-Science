@@ -1,0 +1,19 @@
+Exercise 1, Challenge
+1. Mean	60.73123
+Median	61.1
+Mode	55.9
+Variance	261.6003
+Std Dev	16.17406
+2. histogram , box and whisker plot created
+
+Exercise 2,Challenge
+1. Sampling distribution created - Sheet 7
+2. Sampling mean = 60.68297414
+
+Exercise 3,Challenge
+1. Correlation Rainfall - Sales = -0.9092139
+2. Higher the rainfall , lower the sales
+
+Exercise 4,Challenge
+1. Z-Test Done
+2. P-Value = 0.00000000000000000003
