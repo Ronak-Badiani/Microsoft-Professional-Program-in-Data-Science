@@ -1,0 +1,11 @@
+Exercise 2,challenge
+Date		    Day	    Temperature	Rainfall	Flyers	Price	PredictedSales
+26-11-2018	Monday	37.6		    0.8	      100	    0.3	   19.00269119
+27-11-2018	Tuesday	41.2		    1.02	    100	    0.3	   18.75381906
+
+Exercise 3,challenge
+Increasing the threshold results in fewer false positives but more false negatives. 
+Decreasing the threshold results in fewer false negatives but more false positives.
+
+Exercise 4,challenge
+Customer 1(Marva) is assigned to cluster 1.
